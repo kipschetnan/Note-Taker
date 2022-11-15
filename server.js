@@ -48,11 +48,6 @@ app.get('/api/notes', (req, res) => {
     readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)))
 })
 
-// app.get('/', (req, res) =>
-//   readFromFile('./db/feedback.json').then((data) => res.json(JSON.parse(data)))
-// )
-
-
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 )
