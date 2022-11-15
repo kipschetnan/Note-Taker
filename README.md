@@ -14,7 +14,7 @@
   ## Description
   This app is designed to organize any notes that are entered into the app. It will show the list of notes created and it will show the note when clicked on from the list.
 
-  Link to deployed app:
+  Link to deployed app: https://gentle-coast-12908.herokuapp.com/
 
   ## Usage
   Click on the text box to start creating your title and then move on to the next text box to write the description of your note. After done typing out the note, click the save button and your note should appear in the list on the left.
